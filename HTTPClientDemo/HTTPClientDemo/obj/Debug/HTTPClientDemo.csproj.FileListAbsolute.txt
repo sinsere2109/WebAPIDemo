@@ -1,0 +1,11 @@
+C:\Users\tyren\source\repos\HTTPClientDemo\HTTPClientDemo\bin\Debug\HTTPClientDemo.exe.config
+C:\Users\tyren\source\repos\HTTPClientDemo\HTTPClientDemo\bin\Debug\HTTPClientDemo.exe
+C:\Users\tyren\source\repos\HTTPClientDemo\HTTPClientDemo\bin\Debug\HTTPClientDemo.pdb
+C:\Users\tyren\source\repos\HTTPClientDemo\HTTPClientDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tyren\source\repos\HTTPClientDemo\HTTPClientDemo\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\tyren\source\repos\HTTPClientDemo\HTTPClientDemo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tyren\source\repos\HTTPClientDemo\HTTPClientDemo\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\tyren\source\repos\HTTPClientDemo\HTTPClientDemo\obj\Debug\HTTPClientDemo.csprojResolveAssemblyReference.cache
+C:\Users\tyren\source\repos\HTTPClientDemo\HTTPClientDemo\obj\Debug\HTTPClientDemo.csproj.CoreCompileInputs.cache
+C:\Users\tyren\source\repos\HTTPClientDemo\HTTPClientDemo\obj\Debug\HTTPClientDemo.exe
+C:\Users\tyren\source\repos\HTTPClientDemo\HTTPClientDemo\obj\Debug\HTTPClientDemo.pdb
